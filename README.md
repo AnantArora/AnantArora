@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @AnantArora
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning react-native.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a foreground human
 
 <!---
 AnantArora/AnantArora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
