@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnantArora
-- 👀 I’m a foreground human
+-@AnantArora
+-A foreground human
 
 <!---
 AnantArora/AnantArora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
